@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wong Dehou
-- 🌱 I’m currently a year 3 undergraduate in Information Systems at SMU
+- 🌱 I’m currently a year 3 undergraduate in Information Systems at SMU, majoring in Business Analytics & Digital Cloud Solutions.
 
 
 <!---
