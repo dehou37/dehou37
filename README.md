@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wong Dehou
-- 🌱 I’m currently a year 4 undergraduate in Information Systems at SMU, majoring in Business Analytics & Product Development.
+- 🌱 I’m a fresh graduate with a Bachelor's Degree in Information Systems at SMU, majoring in Business Analytics & Product Development.
 
 
 <!---
